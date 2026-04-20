@@ -1,0 +1,44 @@
+name: Auto Update Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  convert-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Convert Data
+        env:
+          ABC_URL: ${{ secrets.ABC_URL }}
+          DEF_URL: ${{ secrets.DEF_URL }}
+        run: |
+          curl -s "$ABC_URL" > epg.json
+          curl -s "$DEF_URL" > source.json
+          jq --slurpfile epg epg.json '
+            ( $epg[0].data | reduce .[] as $item ({}; . + {($item.name | ascii_downcase): $item.id}) ) as $lookup |
+            map(
+              . as $row |
+              {
+                category: $row.category,
+                tvg_id: ($lookup[$row.name | ascii_downcase] // ""),
+                name: $row.name,
+                link: $row.link,
+                logo: $row.logo,
+                cookie: $row.cookie,
+                user_agent: $row.user_agent
+              }
+            )
+          ' source.json > tf_live.json
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add tf_live.json
+          git diff-index --quiet HEAD || git commit -m "Auto-update: tf_live.json"
+          git push
