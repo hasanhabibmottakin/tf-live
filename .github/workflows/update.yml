@@ -23,9 +23,10 @@ jobs:
             ( $epg[0].data | reduce .[] as $item ({}; . + {($item.name | ascii_downcase): $item.id}) ) as $lookup |
             map(
               . as $row |
+              ($row.name | ascii_downcase | sub(" hd vip$";"") | sub(" vip$";"") | sub(" hd$";"") | sub("aat$";"aath") | sub("aat "; "aath ")) as $clean_name |
               {
                 category: $row.category,
-                tvg_id: ($lookup[$row.name | ascii_downcase] // ""),
+                tvg_id: ($lookup[$clean_name] // ""),
                 name: $row.name,
                 link: $row.link,
                 logo: $row.logo,
