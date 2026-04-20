@@ -28,7 +28,7 @@
   },
   {
     "category": "News Channel",
-    "tvg_id": "",
+    "tvg_id": "193",
     "name": "CNN VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",
@@ -343,7 +343,7 @@
   },
   {
     "category": "Kids",
-    "tvg_id": "",
+    "tvg_id": "ts238",
     "name": "Cartoon Network HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
@@ -442,7 +442,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "697",
     "name": "Sony Aat VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
@@ -469,7 +469,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "183",
     "name": "B4U Music VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
@@ -478,7 +478,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "154",
     "name": "SONY SAB HD VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
@@ -487,7 +487,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "ts63",
+    "tvg_id": "ts557",
     "name": "Zee TV HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
@@ -559,7 +559,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "",
+    "tvg_id": "182",
     "name": "B4U Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
@@ -586,7 +586,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "ts503",
+    "tvg_id": "ts123",
     "name": "Zee Cinema HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",
@@ -595,7 +595,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "479",
+    "tvg_id": "",
     "name": "TLC HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",
@@ -622,7 +622,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "ts287",
+    "tvg_id": "",
     "name": "Animal Planet HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",
@@ -640,7 +640,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "",
+    "tvg_id": "242",
     "name": "Discovery HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",
@@ -676,7 +676,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "ts1276",
+    "tvg_id": "527",
     "name": "Investigation Discovery HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png",
@@ -685,7 +685,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "ts40",
+    "tvg_id": "ts578",
     "name": "&TV HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png",
