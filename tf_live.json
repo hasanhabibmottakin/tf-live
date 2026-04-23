@@ -28,7 +28,7 @@
   },
   {
     "category": "News Channel",
-    "tvg_id": "",
+    "tvg_id": "193",
     "name": "CNN VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",
@@ -46,7 +46,7 @@
   },
   {
     "category": "News Channel",
-    "tvg_id": "inde",
+    "tvg_id": "",
     "name": "Independent TV",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png",
@@ -73,7 +73,7 @@
   },
   {
     "category": "News Channel",
-    "tvg_id": "atnnews",
+    "tvg_id": "",
     "name": "ATN News",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png",
@@ -181,7 +181,7 @@
   },
   {
     "category": "বাংলাদেশী চ্যানেল",
-    "tvg_id": "ekhon",
+    "tvg_id": "",
     "name": "Ekhon TV",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",
@@ -343,7 +343,7 @@
   },
   {
     "category": "Kids",
-    "tvg_id": "",
+    "tvg_id": "ts238",
     "name": "Cartoon Network HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
@@ -352,7 +352,7 @@
   },
   {
     "category": "Kids",
-    "tvg_id": "",
+    "tvg_id": "ts238",
     "name": "Cartoon Network",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
@@ -361,7 +361,7 @@
   },
   {
     "category": "Kids",
-    "tvg_id": "",
+    "tvg_id": "ts239",
     "name": "Pogo",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png",
@@ -370,7 +370,7 @@
   },
   {
     "category": "Kids",
-    "tvg_id": "",
+    "tvg_id": "ts119",
     "name": "Discovery Kids",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",
@@ -406,7 +406,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "ts517",
     "name": "Zing",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png",
@@ -442,7 +442,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "697",
     "name": "Sony Aat VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
@@ -469,7 +469,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "183",
     "name": "B4U Music VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
@@ -478,7 +478,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "154",
     "name": "SONY SAB HD VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
@@ -487,7 +487,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "ts557",
     "name": "Zee TV HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
@@ -514,7 +514,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "",
+    "tvg_id": "ts175",
     "name": "Zee Bollywood",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png",
@@ -559,7 +559,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "",
+    "tvg_id": "182",
     "name": "B4U Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
@@ -586,7 +586,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "",
+    "tvg_id": "ts123",
     "name": "Zee Cinema HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",
@@ -640,7 +640,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "",
+    "tvg_id": "242",
     "name": "Discovery HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",
@@ -649,7 +649,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "",
+    "tvg_id": "242",
     "name": "Discovery",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",
@@ -658,7 +658,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "",
+    "tvg_id": "568",
     "name": "Discovery Science",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png",
@@ -667,7 +667,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "",
+    "tvg_id": "541",
     "name": "Discovery Turbo",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
@@ -676,7 +676,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "",
+    "tvg_id": "527",
     "name": "Investigation Discovery HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png",
@@ -685,7 +685,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "",
+    "tvg_id": "ts578",
     "name": "&TV HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png",
