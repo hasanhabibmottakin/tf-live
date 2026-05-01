@@ -487,7 +487,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "ts9",
+    "tvg_id": "183",
     "name": "B4U Music VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
@@ -541,7 +541,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "",
+    "tvg_id": "488",
     "name": "Zee Action",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",
