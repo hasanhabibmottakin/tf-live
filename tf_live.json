@@ -496,7 +496,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "ts9",
+    "tvg_id": "183",
     "name": "B4U Music VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
@@ -505,7 +505,7 @@
   },
   {
     "category": "Entertainment Channels",
-    "tvg_id": "154",
+    "tvg_id": "",
     "name": "SONY SAB HD VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
@@ -550,7 +550,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "",
+    "tvg_id": "488",
     "name": "Zee Action",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",
@@ -613,7 +613,7 @@
   },
   {
     "category": "Movie Channels",
-    "tvg_id": "ts123",
+    "tvg_id": "484",
     "name": "Zee Cinema HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",
@@ -694,7 +694,7 @@
   },
   {
     "category": "Infotainment",
-    "tvg_id": "ts228",
+    "tvg_id": "541",
     "name": "Discovery Turbo",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
